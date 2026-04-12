@@ -23,7 +23,7 @@
     "fs-extra": "^7.0.1",
     "get-workspaces": "^0.6.0",
     "meow": "^5.0.0",
-    "semver": "^5.4.1",
+    "semver": "^5.7.2",
     "strip-ansi": "^5.2.0"
   },
   "devDependencies": {
