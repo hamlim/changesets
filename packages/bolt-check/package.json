@@ -16,7 +16,7 @@
     "cli"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.4.4",
+    "@babel/runtime": "^7.26.10",
     "@changesets/get-version-range-type": "^0.1.1",
     "chalk": "^2.1.0",
     "detect-indent": "^6.0.0",
